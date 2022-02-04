@@ -1,4 +1,28 @@
+
 .inventory {
+    width: 90%;
+    max-width: 1100px;
+    margin: auto;
+    margin-top: 1rem;
+  }
+
+  .inventory h1 {
     text-align: center;
-    color: rgb(17, 16, 17);
+    font-size: 1.5rem;
+  }
+
+  .content {
+    font-size: 1rem;
+  }
+
+.cars-div img {
+    width: 250px;
+}
+
+.cars-div{
+    display: flex;
+    /* flex-direction: column; */
+    /*justify-content: space-between;*/
+    flex-wrap: wrap;
+    gap: 30px;
 }
