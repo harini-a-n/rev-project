@@ -1,8 +1,10 @@
-.contact {
-    max-width: 1100px;
-    margin: auto;
+.contact h1 {
+    font-size: 1.5rem;
+    text-align: center;
 }
 
-.contact h1 {
-    font-size: 3rem;
+.contact {
+    width: 30%;
+    max-width: 1100px;
+    margin: auto;
 }
