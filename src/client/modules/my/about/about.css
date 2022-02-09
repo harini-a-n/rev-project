@@ -1,10 +1,26 @@
-.center {
+/* .center {
     margin:auto;
     color: black;
+  } */
+
+ .about {
+   width: 90%;
+   max-width: 1100px;
+   margin: auto;
+ }
+ 
+  .about h1 {
+    text-align: center;
+    font-size: 1.5rem;
   }
-  img {
+
+  .about p {
+    font-size: 1rem;
+  }
+
+  .cars {
+    width: 250px;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 40%;
-  }
+}
