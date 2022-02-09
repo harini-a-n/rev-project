@@ -1,5 +1,5 @@
 ## How to start?
 
-npm install
-npm install webpack
-npm run watch
+```npm install```
+```npm install webpack```
+```npm run watch```
